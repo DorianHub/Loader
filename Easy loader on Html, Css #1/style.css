@@ -10,8 +10,8 @@ body{
     transform: translate(-50%,-50%);
 }
 .bar{
-    width: 6px;
-    height: 60px;
+    width: 18px;
+    height: 180px;
     background: white;
     display: inline-block;
     transform-origin: center center;
